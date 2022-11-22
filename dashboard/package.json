@@ -20,7 +20,7 @@
     "cross-env": "^7.0.2",
     "flag-icon-css": "^3.4.6",
     "font-awesome": "^4.7.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "simple-line-icons": "^2.4.1",
     "vue-chartjs": "^3.5.0"
   },
